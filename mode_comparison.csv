@@ -1,0 +1,17 @@
+Metric,Training,Inference,Idle
+Pre-fault power (MW),230.9,184.8,199.9
+Pre-fault voltage (pu),0.9770,0.9821,0.9806
+Min V during fault (pu),0.0000,0.0000,0.0000
+V peak-peak 0-100ms (pu),0.0540,0.0541,0.0400
+V peak-peak 0-500ms (pu),0.0571,0.0708,0.0549
+P peak-peak 0-100ms (MW),752.2,755.0,655.3
+P peak-peak 0-500ms (MW),1089.3,1040.9,938.0
+Max |dP/dt| (MW/s),220324,220353,271292
+Max |dV/dt| (pu/s),24.50,24.53,22.14
+V recovery time (s),0.0000,0.0000,0.0000
+Settling time (s),6.2020,5.4820,2.1680
+FIDVR duration (s),9.61,10.51,10.33
+Oscillation cycles (100ms),3,3,2
+Dominant frequency (Hz),18.7,19.0,31.9
+V osc energy (pu^2.s),1.52e-05,1.53e-05,9.99e-06
+P osc energy (MW^2.s),3.65e+03,3.68e+03,3.89e+03
