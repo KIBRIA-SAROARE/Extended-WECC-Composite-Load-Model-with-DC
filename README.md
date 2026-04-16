@@ -37,7 +37,7 @@ This project adds a **DC Composite Load Model** alongside the standard WECC CLM 
 
 ## Model Architecture
 
-![Model Architecture](Figures/Extended_CPLD_Architecture.png)
+![Model Architecture](Figures/Extended_CPLD_Architecture.pdf)
 
 The extended model connects to the standard WECC CLM load bus and comprises three sub-components:
 
