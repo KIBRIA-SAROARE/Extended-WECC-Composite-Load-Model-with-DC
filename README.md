@@ -282,10 +282,26 @@ Motor and load parameters follow the standard WECC CLM specification as document
 
 
 
-## Acknowledgments
+## Citation
 
-- WECC Load Modeling Task Force for the composite load model specification
-- Prof. Zakir Hussain Rather (IIT Bombay) and Harigovind M. for the foundational WECC CLM implementation reference
-- MathWorks for Simscape Electrical toolbox documentation
+### DC-CLM: data-center load modeling
+
+If you use or discuss the data-center composite load modeling approach, please also cite:
+
+- [DC-CLM: Extending the WECC Composite Load Model for AI Data Center Dynamics (PDF)](https://arxiv.org/pdf/2609.22093)
+- [arXiv abstract and citation metadata](https://arxiv.org/abs/2609.22093)
+
+```bibtex
+@misc{saroare2026dcclm,
+  author        = {Saroare, Md Kibria and Ahmed, Md Rubel and Hussain, Arif},
+  title         = {{DC-CLM}: Extending the {WECC} Composite Load Model
+                   for {AI} Data Center Dynamics},
+  year          = {2026},
+  eprint        = {2609.22093},
+  archivePrefix = {arXiv},
+  primaryClass  = {eess.SP},
+  url           = {https://arxiv.org/abs/2609.22093}
+}
+```
 
 [Note: This file is written with the help of generative AI]
